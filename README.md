@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 
 
-[https://adrianorighi.com](adrianorighi.com)
+[adrianorighi.com](https://adrianorighi.com)
 
 <!--
 **adrianorighi/adrianorighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
