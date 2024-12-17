@@ -40,13 +40,11 @@ Coordenador de Sistemas com mais de 10 anos de experiência liderando equipes mu
 
 ### **Meta - Desenvolvedor PHP Sênior**  
 *10/2020 - 12/2021*  
-- Desenvolvimento de sistemas escaláveis e de grande porte para setores como saúde, biocombustíveis, indústria e governo.
-- Liderança técnica de projetos, com expertise em PHP, Node.js/TypeScript, Python e Shell Script.
-- Gerenciamento de servidores e ambientes on-premises e cloud (AWS, GCP, Azure), garantindo alta disponibilidade e eficiência.
-- Implantação de soluções com Docker, Kubernetes, Grafana, Prometheus e bancos de dados relacionais e não relacionais.
-- Utilização avançada de serviços AWS (EKS, ECS, S3, RDS, Lambda) e Google Cloud (GKE, Cloud Run, Firebase, Cloud SQL).
-- Implementação de pipelines CI/CD no GitLab/Github, otimizando a integração e entrega de features e aumentando a eficiência do time.
-- Garantia de entrega de softwares complexos com alta qualidade, dentro de prazos estipulados, promovendo melhorias significativas na produtividade da equipe.
+- Desenvolvimento de sistemas escaláveis de grande porte para setores como saúde, indústria e governo, utilizando PHP e Node.js/TypeScript.
+- Liderança técnica de projetos, com implementação de CI/CD no GitLab e otimização dos processos de entrega.
+- Implantação de Docker, Kubernetes e soluções de monitoramento como Grafana e Prometheus.
+- Gerenciamento de ambientes cloud (AWS/GCP), com destaque para serviços como EKS, S3, RDS, Lambda e GKE.
+- Garantia de entregas de alta qualidade, respeitando prazos e promovendo ganhos de eficiência na equipe.
 
 ### **Antônio Meneghetti Faculdade - Professor**
 *07/2022 - 12/2022*
