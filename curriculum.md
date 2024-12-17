@@ -1,4 +1,4 @@
-# Adriano Zavareze Righi - Tech Lead
+# Adriano Zavareze Righi - Coordenador de Sistemas
 
 Software Engineer | Tech Lead | Cloud | PHP, Python, Typescript, Go
 
