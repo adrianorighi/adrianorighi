@@ -12,7 +12,7 @@ Software Engineer | Tech Lead | Cloud | PHP, Python, Typescript, Go
 ---
 
 ## Resumo Profissional
-Coordenador de Sistemas com mais de 10 anos de experiência liderando equipes multidisciplinares na entrega de soluções escaláveis baseadas em arquitetura de microsserviços e cloud (AWS/GCP). Especialista em DevOps, CI/CD e práticas ágeis, com histórico comprovado de redução de prazos de entrega em **25%** e melhoria de NPS em **28%**. Apaixonado por desenvolver times e liderar transformações digitais estratégicas.
+Coordenador de Sistemas com mais de 10 anos de experiência liderando equipes multidisciplinares na entrega de soluções escaláveis baseadas em arquitetura monolítica e de microsserviços em ambientes híbridos (on-premises, GCP, AWS e Azure). Especialista em DevOps, CI/CD e práticas ágeis, com histórico comprovado de redução de prazos de entrega em **25%** e melhoria de NPS em **28%**. Apaixonado por desenvolver times e liderar iniciativas estratégicas.
 
 ---
 
