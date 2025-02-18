@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adriano</h1>
 <h3 align="center">A passionate backend and devops engineer from Brazil</h3>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=adrianorighi&theme=tokyonight&short_numbers=true&mode=weekly" alt="adrianorighi" /></p>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,angular,php,typescript,python,go&perline=5" alt="adrianorighi" /></p>
 
 <h3 align="left">Connect with me:</h3>
